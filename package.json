@@ -1,6 +1,6 @@
 {
   "name": "@catamphetamine/found-scroll",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Scroll management for found",
   "files": [
     "lib",
