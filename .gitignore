@@ -117,3 +117,5 @@ dist
 # Transpiled code.
 /lib
 /es
+
+project.sublime-workspace
