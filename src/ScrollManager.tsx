@@ -1,4 +1,4 @@
-import StateStorage from 'farce/StateStorage';
+import StateStorage from '@catamphetamine/farce/StateStorage';
 import type { Location, RenderArgsElements, Router } from 'found';
 import HttpError from 'found/HttpError';
 import React, { Component, ReactNode, createContext } from 'react';
